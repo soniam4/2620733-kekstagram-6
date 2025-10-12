@@ -11,3 +11,4 @@ export function getUniqueNumbers(count, min, max) {
     }
   }
   return numbers;
+}
